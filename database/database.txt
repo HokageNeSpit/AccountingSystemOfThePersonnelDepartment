@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Ivan",
+		"surname": "Tolkunov",
+		"photo": "URL",
+		"number": 3214354,
+		"register": {
+			"job": "Programmer",
+			"since": "2020"
+		}
+	},
+	{
+		"name": "Andrey",
+		"surname": "Romanov",
+		"photo": "URL",
+		"number": 45231,
+		"register": {
+			"job": "Manager",
+			"since": "2005"
+		}
+	},
+	{
+		"name": "Artem",
+		"surname": "Bistritskii",
+		"photo": "URL",
+		"number": 5341123,
+		"register": {
+			"job": "Programmer",
+			"since": "2018"
+		}
+	}
+]
